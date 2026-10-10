@@ -57,4 +57,4 @@ Use the green button in the Quick Start section above.
 
 <p align="center"><a href="https://share.google/RGv2zp3licU9W3FzP"><b>⬇ Download Fivem Mod Menu — free (2026)</b></a></p>
 
-<p align="center"><sub>Shared under the MIT License · Updated 2026-10-09</sub></p>
+<p align="center"><sub>Shared under the MIT License · Updated 2026-10-10</sub></p>
